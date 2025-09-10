@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://www.arturvan.com/](https://www.arturvan.com/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **vanivskyi.artur@gmail.com**
 
-- 📄 Know about my experiences [https://www.arturvan.com/](https://www.arturvan.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
